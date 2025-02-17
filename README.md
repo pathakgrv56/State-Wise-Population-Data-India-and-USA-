@@ -1,4 +1,4 @@
-# State-Wise-Population-Data-India-and-USA-
+# State-Wise-Population-Data-India-and-USA
 This project analyzes and visualizes state-wise population data for India and the USA using Excel. The dataset includes:
 Population data for Indian and U.S. states.
 Various Excel tools for data processing and visualization.
